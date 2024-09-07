@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #000000;
+    color: #dad1ca;
+    text-align: center;
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-4GF7U9JJarusdegUCOQScUph5GKyzK8aYg&s);
+   background-position: center ;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+
+}
+
+h1{
+    font-size: 45px;
+
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: aliceblue;
+    color: #000000;
+    border-style: none;
+
+}
+.btn:hover{
+    background-color: rgb(134, 71, 71);
+}
